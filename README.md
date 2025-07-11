@@ -9,9 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 First-year BTech student at BMS College of Engineering (BMSCE)
-- 💡 Passionate about building robust, scalable, and creative software solutions
+- 💡 *Trying* to build robust, scalable, and creative software solutions
 - 🛠️ 4+ years of experience with Python, JavaScript, MongoDB, HTML, CSS, jQuery, Postman, SQL, and more
-- 🚀 Always eager to learn and experiment with new tech
+- 🚀 Probably debugging Javascript rn
 
 </div>
 
