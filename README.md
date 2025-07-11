@@ -21,10 +21,10 @@
 
 #### Multi-purpose Discord Bot
 
-A feature-rich Discord bot spanning over 10,000 lines of code!  
+A feature-rich Discord bot spanning over 10,000 lines of code
 - Integrates multiple APIs  
 - Utilizes asynchronous programming  
-- Packed with powerful and unique features  
+- Included Reddit browsing with commands and Encrypted anonymous message transfers between users
 - Built for fun, productivity, and community management
 
 </div>
