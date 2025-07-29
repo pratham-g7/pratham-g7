@@ -50,7 +50,11 @@ A lightweight blogging platform ideal for short-form thoughts or journals
 <tr>
 <td>
   
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Pratham's GitHub Stats]
+![Years of Code](https://badges.pufler.dev/years/pratham-g7)
+![GitHub Followers](https://img.shields.io/github/followers/pratham-g7?label=Followers&style=flat-square)
+![Long-time User](https://badges.pufler.dev/created/pratham-g7)
+
 
 </td>
 <td>
