@@ -50,20 +50,20 @@ A lightweight blogging platform ideal for short-form thoughts or journals
 <tr>
 <td>
   
-![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Pratham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratham-g7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-g7&layout=compact&theme=tokyonight&hide_border=true)
 
 </td>
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratham-g7&theme=tokyonight&hide_border=true)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=pratham-g7&theme=flat&no-frame=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
