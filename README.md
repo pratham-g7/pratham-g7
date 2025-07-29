@@ -15,7 +15,7 @@
 
 ## 🌟 Favorite Projects
 
-### 🧪 [TaskLab](https://github.com/yourusername/tasklab) – Collaborative Task Rooms for Teams  
+### 🧪 [TaskLab](https://github.com/pratham-g7/tasklab) – Collaborative Task Rooms for Teams  
 A full-stack productivity app that lets users create shared task rooms (TaskLabs) to manage tasks together  
 - Node.js, Express, MongoDB (Mongoose), HTML/CSS/JavaScript + jQuery  
 - User auth, task claiming, task completion  
