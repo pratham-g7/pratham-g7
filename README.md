@@ -17,15 +17,19 @@
 
 <div align="center" style="background: #f1f5fd; border-radius: 16px; border: 1px solid #c7d3ea; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
 
-### 🌟 Favorite Project
+### 🌟 Favorite Projects
 
-#### Multi-purpose Discord Bot
+#### 🧪 TaskLab – Collaborative Task Rooms for Teams  
+A full-stack productivity web app that lets users create shared task rooms (TaskLabs) to manage tasks together  
+- Node.js, Express, MongoDB (Mongoose), HTML/CSS/JavaScript + jQuery  
+- User auth, task claiming, task completion  
+- Room-based collaboration (like Google Meet, but for tasks)
 
-A feature-rich Discord bot spanning over 10,000 lines of code
-- Integrates multiple APIs  
-- Utilizes asynchronous programming  
-- Included Reddit browsing with commands and Encrypted anonymous message transfers between users
-- Built for fun, productivity, and community management
+#### 📝 BlogSpace – Minimal Personal Blogging Platform  
+A lightweight blogging platform ideal for short-form thoughts or journals  
+- Node.js, Express, MongoDB, EJS, HTML/CSS/JavaScript + jQuery  
+- Live character counters with input locking  
+- Mobile-friendly, clean and responsive UI
 
 </div>
 
