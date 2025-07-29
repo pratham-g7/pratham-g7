@@ -4,18 +4,20 @@
 
 ---
 
-<div align="center" style="background: #f8fafc; border-radius: 16px; border: 1px solid #e5e7eb; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+<div align="center">
 
 ### 👨‍💻 About Me
 
-- 🎓 First-year BTech student at BMS College of Engineering (BMSCE)
-- 💡 *Trying* to build robust, scalable, and creative software solutions
-- 🛠️ 4+ years of experience with Python, JavaScript, MongoDB, HTML, CSS, jQuery, Postman, SQL, and more
-- 🚀 Probably debugging Javascript rn
+- 🎓 First-year BTech student at BMS College of Engineering (BMSCE)  
+- 💡 *Trying* to build robust, scalable, and creative software solutions  
+- 🛠️ 4+ years of experience with Python, JavaScript, MongoDB, HTML, CSS, jQuery, Postman, SQL, and more  
+- 🚀 Probably debugging JavaScript right now  
 
 </div>
 
-<div align="center" style="background: #f1f5fd; border-radius: 16px; border: 1px solid #c7d3ea; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+---
+
+<div align="center">
 
 ### 🌟 Favorite Projects
 
@@ -29,11 +31,13 @@ A full-stack productivity web app that lets users create shared task rooms (Task
 A lightweight blogging platform ideal for short-form thoughts or journals  
 - Node.js, Express, MongoDB, EJS, HTML/CSS/JavaScript + jQuery  
 - Live character counters with input locking  
-- Mobile-friendly, clean and responsive UI
+- Mobile-friendly, clean and responsive UI  
 
 </div>
 
-<div align="center" style="background: #f8fafc; border-radius: 16px; border: 1px solid #e5e7eb; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+---
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
@@ -48,12 +52,36 @@ A lightweight blogging platform ideal for short-form thoughts or journals
 
 </div>
 
-<div align="center" style="background: #f1f5fd; border-radius: 16px; border: 1px solid #c7d3ea; padding: 24px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+---
 
-### 📫 Connect with Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-gopal-112a04369/)
+### 📈 GitHub Stats
+
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight&hide_border=true)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratham-gopal-112a04369/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
