@@ -63,8 +63,6 @@ A lightweight blogging platform ideal for short-form thoughts or journals
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratham-g7&theme=tokyonight&hide_border=true)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=pratham-g7&theme=flat&no-frame=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
