@@ -23,9 +23,11 @@ A full-stack productivity app that lets users create shared task rooms (TaskLabs
 
 ### 📝 [BlogSpace](https://github.com/pratham-g7/blogspace) – Minimal Personal Blogging Platform  
 A lightweight blogging platform ideal for short-form thoughts or journals  
-- Node.js, Express, MongoDB, EJS, HTML/CSS/JavaScript + jQuery  
-- Live character counters with input locking  
-- Mobile-friendly, clean and responsive UI  
+- Node.js, Express, MongoDB (Mongoose), EJS, HTML/CSS, JavaScript + jQuery
+- Live character counters with input locking for post and comment fields
+- Comment threads under each post, with optional add/delete functionality
+- Taskbar-free UI optimized for quick blogging with responsive mobile support
+- Clean EJS templates and modular backend structure for easy customization
 
 ---
 
