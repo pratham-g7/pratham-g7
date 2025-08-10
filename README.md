@@ -28,7 +28,7 @@ A lightweight blogging platform ideal for short-form thoughts or journals
 - Comment threads under each post, with optional add/delete functionality
 - Taskbar-free UI optimized for quick blogging with responsive mobile support
 - Clean EJS templates and modular backend structure for easy customization
-
+- Also has a rewrite in [TypeScript](https://github.com/pratham-g7/blogspace-ts)
 ---
 
 ## 🛠️ Tech Stack
