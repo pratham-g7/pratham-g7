@@ -1,6 +1,6 @@
 # Hi, I’m Pratham
 
-**Aspiring No-Stack Developer | BTech CSE @ BMSCE**
+**Aspiring Developer | BTech CSE @ BMSCE**
 
 ---
 
