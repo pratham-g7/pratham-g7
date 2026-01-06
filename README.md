@@ -1,4 +1,4 @@
-# Hi, I’m Pratham
+# Pratham G
 
 **Aspiring Developer | BTech CSE @ BMSCE**
 
